@@ -1,0 +1,3 @@
+rootProject.name = 'js_test'
+
+include ':app'
